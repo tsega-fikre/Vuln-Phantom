@@ -10,8 +10,8 @@
 
 
 ╔════════════════════════════════════════════════════════════════════╗
-║                    Elite Web Vulnerability Scanner v2.0            ║
-║                         Author: The Phantom                        ║
+║                    Elite Web Vulnerability Scanner v2.0                  ║
+║                         Author: The Phantom                              ║
 ╚════════════════════════════════════════════════════════════════════╝
 
 ```
