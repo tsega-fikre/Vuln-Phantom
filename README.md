@@ -44,7 +44,7 @@ A lightweight, educational web vulnerability scanner that detects common web app
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/web-vuln-scanner.git
+git clone https://github.com/tsega-fikre/Vuln-Phantom.git
 cd vuln-phantom
 pip install -r requirements.txt
 # if only pip is not woking us the below command but first uncomment it
